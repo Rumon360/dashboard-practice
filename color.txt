@@ -1,0 +1,2 @@
+black = #14121f
+main = #f4f4fc
